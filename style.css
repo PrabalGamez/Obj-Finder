@@ -1,0 +1,40 @@
+#head{
+    width: 100%;
+    background-color: #8D7EF5;
+    top: 0;
+    position: fixed;
+    border-bottom: 10px black solid;
+}
+
+#head input{
+    border: 5px black solid;
+    border-radius: 100px;
+}
+
+button{
+    background-color: #73A9FA;
+    line-height: 2;
+    width: 15%;
+    font-size: x-large;
+    border: 5px black solid;
+    border-radius: 40px;
+}
+
+button:hover{
+    background-color: #817EF5;
+}
+
+.h3{
+    background-color: #817EF5;
+    line-height: 2;
+    font-size: x-large;
+    border: 5px black solid;
+    border-radius: 40px;
+    display: inline;
+}
+
+canvas{
+    border: 5px black solid;
+    border-radius: 20px;
+    margin-top: 90px;
+}
